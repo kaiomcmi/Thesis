@@ -1,2 +1,2 @@
 # Thesis
-All data &amp; code used for thesis
+PDF of thesis including all data &amp; code used for thesis.
